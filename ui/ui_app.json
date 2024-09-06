@@ -1,0 +1,12 @@
+{
+  "name": "JDM Speed Chime",
+  "version": "0.2",
+  "author": "Erikster",
+  "description": "Speed chime that begins at 103 km/h by default",
+  "tags": [
+    "audio",
+    "jdm"
+  ],
+  "country": "Estonia",
+  "url": null
+}
