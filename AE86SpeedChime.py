@@ -71,7 +71,7 @@ def acMain(ac_version):
 
 def acUpdate(dt):
 	speed = ac.getCarState(0, acsys.CS.SpeedKMH)
-	if speed > 100 and ac.getCarName(0) in ["ks_toyota_ae86", "ks_toyota_ae86_drift", "ks_toyota_ae86_tuned", "initiald_toyota_ae86"] and ac.isCameraOnBoard(0) and beeperEnabled:
+	if speed > 105 and ac.getCarName(0) in ["ks_toyota_ae86", "ks_toyota_ae86_drift", "ks_toyota_ae86_tuned", "initiald_toyota_ae86", "wdts_toyota_ae86", "wdb_toyota_ae86", "jr_toyota_ae86_trueno_N2_", "kbt_alpha_ae86_trueno_hatch", "dngs_toyota_ae86_levin_coupe", "j8_toyota_ae86_trueno", "j8_toyota_ae86_levin", "j8_toyota_ae86_trueno_kouki_tuned", "j8_ae86_tuned_coupe", "toyota_ae86_levin_tuned", "jw_toyota_ae86_gtv_kouki_tsuchiya_keiichi_2016", "idp1st_takumi_fujiwara_ae86_trueno", "idp2nd3rd4th_takumi_fujiwara_ae86_trueno", "idp4th_takumi_fujiwara_ae86_trueno_carbon", "idp5th_takumi_fujiwara_ae86_trueno_carbon" ] and ac.isCameraOnBoard(0) and beeperEnabled:
 		sound_player.play(AUDIO_UP)		
 	else:
 		sound_player.stop()
