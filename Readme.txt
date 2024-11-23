@@ -12,5 +12,5 @@ Usage:
 - Don't get carried away and spill the water. Bunta will be mad.
 
 Credits:
-DasHund007 - forked this app from Klayking.
+Klayking - created this app.
 TKu - created the sound player code for the RpmBeeper app which this was based upon.
