@@ -11,6 +11,9 @@ Usage:
 - If the sound is too loud or quiet for your preferences, you can replace Chime.wav in the AE86SpeedChime folder with one of the louder or quieter samples by renaming the desired wav file to Chime.wav
 - Don't get carried away and spill the water. Bunta will be mad.
 
+Troubleshooting:
+- Try to clear your gamecache under steam/steamapps/common/assettocorsa/cache
+
 Credits:
-Klayking - created this app.
+Forked from:(Klayking - created this app).
 TKu - created the sound player code for the RpmBeeper app which this was based upon.
