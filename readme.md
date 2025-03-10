@@ -1,6 +1,6 @@
 # AE86 Speed Chime App for Assetto Corsa
 
-This app simulates the iconic speed chime sound from the Toyota AE86 when driving in Assetto Corsa. The chime activates when driving in first-person view at speeds over 105 kph.
+This app simulates the iconic speed chime sound from the Toyota AE86 when driving in Assetto Corsa. The chime activates when driving in first-person view at speeds over 100 kph.
 
 ## Installation
 1. Place the `AE86SpeedChime` folder in your `steam/steamapps/common/assettocorsa/apps/python` directory.
